@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/AIEMSimulator.png</file>
+        <file>Resources/Alexnet.png</file>
+        <file>Resources/Antenna.png</file>
+        <file>Resources/AntennaTesting.png</file>
+        <file>Resources/Attenuator.png</file>
+        <file>Resources/calculator.png</file>
+        <file>Resources/CircuitDesign.png</file>
+        <file>Resources/curriculum.png</file>
+        <file>Resources/CurveFitting.png</file>
+        <file>Resources/product.png</file>
+    </qresource>
+</RCC>
